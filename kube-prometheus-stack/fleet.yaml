@@ -1,0 +1,11 @@
+client_secret: GOCSPX-B3djnqhLP0******************
+Ryan Vassallo ryan.vassallo@booming-games.com
+add vcc-berlin configs
+2024-02-28 14:29:39
+
+          auth.google:
+            enabled: true
+            client_id: 2283559786-04tbn3h9jpu301ev7v9eu2g9s26hnaur.apps.googleusercontent.com
+            client_secret: GOCSPX-B3djnqhLP0******************
+            scopes: https://www.googleapis.com/auth/userinfo.profile https://www.googleapis.com/auth/userinfo.email
+            allowed_domains: gcsd.io booming-games.com
