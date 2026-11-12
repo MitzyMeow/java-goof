@@ -1,1 +1,21 @@
 
+<!-- Apache-2.0 -->
+	    <dependency>
+	        <groupId>org.apache.commons</groupId>
+	        <artifactId>commons-lang3</artifactId>
+	        <version>3.21.0</version>
+	    </dependency>
+	
+	    <!-- LGPL test candidate -->
+	    <dependency>
+	        <groupId>org.xwiki.commons</groupId>
+	        <artifactId>xwiki-commons-diff-script</artifactId>
+	        <version>17.10.15</version>
+	    </dependency>
+	
+	    <!-- GPL test candidate -->
+	    <dependency>
+	        <groupId>me.proton.core</groupId>
+	        <artifactId>auth-data</artifactId>
+	        <version>36.8.1</version>
+	    </dependency>
